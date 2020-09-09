@@ -17,24 +17,18 @@ así que dejaremos la opción pública que viene por defecto.
 Por el momento, tampoco asignaremos una licencia, un README
 ni un fichero de exclusión (gitignore).
 
-<<<<<<< HEAD
 Lo que haremos sera copiar el link del repositorio , preferiblemente http. (Si es usuario experimentado puede usar ssh)
 
 ![3](Screenshot_9.jpg)
 
 
-=======
->>>>>>> parent of 49f6a38... Update README.md
 ## Segunda parte
 
 
 Para esta parte del tutorial, iniciaremos Pharo, y nos dirigiremos a Tools->Iceberg.
-<<<<<<< HEAD
 
 ![4](Screenshot_2.jpg)
-=======
-![3](Screenshot_2.jpg)
->>>>>>> parent of 49f6a38... Update README.md
+
 
 >Nota:
 >*Iceberg es un plugin/addon, que traen las imagenes de Pharo por defecto, es un servicio de repositorios.*
@@ -50,7 +44,6 @@ Nosotros por el momento solo haremos un repositorio local.
 ![6](Screenshot_18.jpg)
 
 Si hicimos todo bien, deberia figurarnos el repositorio en nuestra ventana.
-<<<<<<< HEAD
 
 ![7](Screenshot_4.jpg)
 
@@ -97,14 +90,6 @@ Listo :) ahora podremos commitear y pushear a github.
 
 
 
-=======
-![6](Screenshot_4.jpg)
-
-Como siguiente paso haremos click derecho. y se desplegara una lista. ahi podemos configurar nuestro repositorio.
-a fines didacticos cree anteriormente un proyecto, al ir a package se puede asignar los repositorios que se quiere asociar a ese repositorio.
->>>>>>> parent of 49f6a38... Update README.md
-
-![7](Screenshot_5.jpg)
 
 
 

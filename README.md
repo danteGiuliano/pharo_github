@@ -7,7 +7,9 @@ Se supone que el usuario ya tiene una cuenta en la página y que
 además se encuentra en ella.
 
 El primer paso será crear un nuevo repositorio.
+
 ![1](Screenshot_11.jpg)
+
 Daremos un nombre y una descripción a nuestro repositorio.
 GitHub no permite crear repositorios privados(Si usted tiene git registrado con cuenta institucional se puede acceder a uno)
 así que dejaremos la opción pública que viene por defecto.

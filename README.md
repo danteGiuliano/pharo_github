@@ -49,7 +49,7 @@ Si hicimos todo bien, deberia figurarnos el repositorio en nuestra ventana.
 
 ![7](Screenshot_4.jpg)
 
-Como siguiente paso haremos click derecho. y se desplegara una lista. ahi podemos interactuar nuestro repositorio.
+Como siguiente paso haremos click derecho. y se desplegara una lista. ahi podemos interactuar con nuestro repositorio.
 
 lo que haremos sera configurar y enlazar nuestro repositorio local con el repositorio creado en github.
 
@@ -62,8 +62,9 @@ que pueda recibir las actualizaciones del repositorio local. por lo que iremos a
 ![9](Screenshot_19.jpg)
 
 Deberia abrirse una ventana emergente donde se nos pide 2 cosas. 
--identificacion del branch o usuario(puede ser cualqueira)
--la url donde se encuentra ese repositorio(es el link http guardado del paso 1).
+
+1. identificacion del branch o usuario(puede ser cualqueira)
+2. la url donde se encuentra ese repositorio(es el link http guardado del paso 1).
 
 ![10](Screenshot_10.jpg)
 

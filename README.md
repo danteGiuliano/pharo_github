@@ -87,7 +87,11 @@ ahora solo añadiremos nuestro package al working directory presionando en **add
 
 ![13](Screenshot_20.jpg)
 
-Listo :) ahora podremos commitear y pushear a github.
+Listo :) ahora podremos commitear y pushear a github. simplemento apretando click derecho en el repositorio local y todo se hara automaticamente
+
+![14](Screenshot_final.jpg)
+
+*espero este pequeño tutorial te haya sido de utilidad*
 
 
 

@@ -56,7 +56,7 @@ lo que haremos sera configurar y enlazar nuestro repositorio local con el reposi
 ![8](Screenshot_8.jpg)
 
 Esta ventana es muy importante, en esta ventana se administran todos los commits,ramas y autores en el repositorio local. 
-podemos ver que por defecto Iceberg nos crea un Brach master. esto representa nuestro usuario local. lo haremos sera crear un usuario 
+podemos ver que por defecto Iceberg nos crea un branch(rama) master. esto representa nuestro usuario local. lo haremos sera crear un usuario 
 que pueda recibir las actualizaciones del repositorio de origin. por lo que iremos a **+add remote** 
 
 ![9](Screenshot_19.jpg)

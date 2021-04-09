@@ -55,9 +55,9 @@ lo que haremos sera configurar y enlazar nuestro repositorio local con el reposi
 
 ![8](Screenshot_8.jpg)
 
-Esta ventana es muy importante, en esta ventana se administran todos los commits,ramas y authores en el repositorio local. 
+Esta ventana es muy importante, en esta ventana se administran todos los commits,ramas y autores en el repositorio local. 
 podemos ver que por defecto Iceberg nos crea un Brach master. esto representa nuestro usuario local. lo haremos sera crear un usuario 
-que pueda recibir las actualizaciones del repositorio local. por lo que iremos a **+add remote** 
+que pueda recibir las actualizaciones del repositorio de origin. por lo que iremos a **+add remote** 
 
 ![9](Screenshot_19.jpg)
 
@@ -87,7 +87,7 @@ ahora solo añadiremos nuestro package al working directory presionando en **add
 
 ![13](Screenshot_20.jpg)
 
-Listo :) ahora podremos commitear y pushear a github. simplemento apretando click derecho en el repositorio local y todo se hara automaticamente
+Listo :) ahora podremos commitear y pushear a github. simplemente apretando click derecho en el repositorio local y todo se hara automaticamente
 
 ![14](Screenshot_final.jpg)
 

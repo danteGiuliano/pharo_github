@@ -111,13 +111,28 @@ Iceberg remoteTypeSelector: #httpsUrl
 
 Esto se debe a las nuevas politicas de github, el login ahora varia un poco de la manera tradicional. el usuario se mantiene igual, lo que cambia es la contraseña. ahora la contraseña es el token encriptado que nos provee github. 
 
-como acceder a ese token .
+como acceder a ese token. ir a las opciones de github 
+![15](imagenes_2022/paso1.png)
+
+entrar al apartado de personal acces token
+
+![16](imagenes_2022/paso2.png)
+
+Aqui vamos a generar un token 
+
+![17](imagenes_2022/paso3.png)
+
+El token generado debemos copiarlo y guardarlo, este sera nuestro password para el login de github 
+
+
 
 ## SSH
 
 Si utiliza este protocolo, puede serle de mayor utilidad a la hora de desarrollar en smalltalk, ya que todos los permisos se gestionan mediante llaves publicas y privadas. tratare de no entrar en detalles ya que la configuracion de este tipo de protocolo es exactamente igual. la unica diferencia que debe tener en cuenta , es que una vez haya creado su llave en su sistema operativo , y  agregado la llave en github ( SSH and GPG keys) , deberia 
 
 1) activar ssh custom key en smalltalk 
+
+![18](imagenes_2022/paso6.png)
 
 2) Clon via ssh 
 
